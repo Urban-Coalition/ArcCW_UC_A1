@@ -1,0 +1,13 @@
+VertexLitGeneric
+{
+	$baseTexture "uc/a1\m4super"
+	$bumpmap "effects/flat_normal"
+
+	$phong 1
+	$phongboost 0.2
+	$phongexponent 500
+	$phongfresnelranges "[0.01 1 1]"
+	$BASEMAPLUMINANCEPHONGMASK 1
+	$color2 "[1.5 1.5 1.5]"
+	$ambientocclusion 1
+	$halflambert 1

@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "uc/a1\shotgun_spas_shell"
+
+	"$blendTintByBaseAlpha" "1"
+	Proxies
+	{
+		UC_ShellColor
+		{
+		}
+	}
+}
+
+
+
+
