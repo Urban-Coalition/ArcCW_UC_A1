@@ -134,7 +134,7 @@ SWEP.ShootSpeedMult = 0.5
 -- Length --
 
 SWEP.BarrelLength = 48
-SWEP.ExtraSightDist = 7
+SWEP.ExtraSightDist = 2
 
 -- Ironsights / Customization / Poses --
 
@@ -193,11 +193,13 @@ SWEP.AttachmentElements = {
         VMBodygroups = {
 			{ind = 1, bg = 1},
 			{ind = 3, bg = 1},
+			{ind = 10, bg = 1},
 		},
     },
     ["uc_a1_rs"] = {
         VMBodygroups = {
 			{ind = 8, bg = 1},
+			{ind = 10, bg = 0},
 		},
     },
     ["tac"] = {
