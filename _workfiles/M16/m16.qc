@@ -53,6 +53,11 @@ $bodygroup "rail" {
 	studio "m16_rail_fg_wood.smd"
 }
 
+$bodygroup "fs" {
+	studio "m16_fs.smd"
+	blank
+}
+
 $cdmaterials "uc\a1"
 
 $attachment "1" "m16_flash" 0 0 0 rotate -90 0 0
